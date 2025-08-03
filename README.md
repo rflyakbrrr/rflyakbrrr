@@ -1,94 +1,71 @@
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#7c26ecff">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F9FF&center=true&vCenter=true&width=700&lines=Hello+World+🌍;I'm+Rafly+Akbar+👨‍💻;Web+Developer+💻;SPK+Builder+🧠;Tech+Explorer+🚀;Software+Engineer+💼" alt="Typing Animation" />
+</p>
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafly+Akbar;Web+Developer+%7C+SPK+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
-</h1>
+ <!-- Hero Section with GIF Background -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Coding cat" />
 
+</p>
 
-<h3>🚀 Passionate about Web Development, SPK, and Problem Solving</h3>
+<!-- Animated Typing Name -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Futuristic Code" />
 
+</p>
 
+<!-- Short Intro -->
+<h3 align="center">🚀 Passionate about Web Development, SPK Systems & Problem Solving</h3>
 
-  </td>
+  
   </tr>
 </table>
 
+---
 
+### 🧑‍💻 About Me
 
-<!-- WRAPPED IN BACKGROUND TABLE -->
-<table width="100%" bgcolor="#7c26ec">
-<tr><td>
-
-<!-- ANIMATED BACKGROUND (GIF) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafly+Akbar;Web+Developer+%7C+SPK+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
-</h1>
-
-<h3 align="center" style="color:white">🚀 Passionate about Web Development, SPK, and Problem Solving</h3>
-
-</td></tr>
-</table>
-
-
+- 🎓 Currently exploring **Decision Support Systems (SPK)**
+- 🧠 Focused on building smart apps using PHP, MySQL & SAW method
+- ⚙️ Addicted to problem solving & automation tools
+- 💌 Email me: **[raflyakbrrr@gmail.com](mailto:raflyakbrrr@gmail.com)**
 
 ---
 
-### 📌 About Me
-
-- 🎓 Currently learning **Decision Support Systems (SPK)**
-- 💻 Building: `SPK Web Apps` using PHP & MySQL
-- ⚡ Interested in AI, web automation, full-stack dev
-- 📫 Reach me at: **[raflyakbrrr@gmail.com](mailto:raflyakbrrr@gmail.com)**
-
----
-
-### 🛠️ Tools & Technologies
+### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode&theme=light" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Projects
 
-> 🧠 **SPK Web App**  
-> 🔧 PHP, MySQL, Metode SAW  
-> 📍 Login multi-role, CRUD kriteria, alternatif, user
+💻 **SPK Web App**  
+`PHP + MySQL + SAW`  
+🔐 Login multi-role | 🔧 CRUD user, kriteria, alternatif  
 
-> 🔎 **Web Crawler Tool**  
-> 🌐 JavaScript & Puppeteer  
-> 📥 Otomasi ambil data produk dari e-commerce
+🕷 **Web Crawler Tool**  
+`NodeJS + Puppeteer`  
+🛒 Otomasi data scraping dari e-commerce  
 
-> 📝 **Student Form GUI**  
-> 🖥️ Java Swing  
-> 📄 Formulir mahasiswa berbasis desktop
+📄 **Student Form GUI**  
+`Java Swing`  
+🎓 Form desktop input data mahasiswa  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rflyakbrrr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=10&rank_icon=github" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=rflyakbrrr&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rflyakbrrr&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflyakbrrr&langs_count=10&layout=donut&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflyakbrrr&layout=donut&langs_count=10&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
 </p>
-
 
 ---
 
@@ -102,17 +79,22 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:raflyakbrrr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Quote
+### ⚡ Dev Quote
 
-> _“Every bug I fix teaches me something. Every feature I ship makes me better.”_
+> _"Every bug I fix teaches me something. Every feature I ship makes me better."_
 
 ---
+
+<!--
+**rflyakbrrr/rflyakbrrr** is a ✨ special ✨ repo because this README appears on your GitHub profile.
+-->
+
 
 <!--
 **rflyakbrrr/rflyakbrrr** is a ✨ special ✨ repo because this README appears on your GitHub profile.
