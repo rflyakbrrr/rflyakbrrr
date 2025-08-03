@@ -16,7 +16,7 @@
 </p>
 
 <!-- Short Intro -->
-<h3 align="center">🚀 Passionate about Web Development, SPK Systems & Problem Solving</h3>
+<h3 align="center">👨‍💻 I'm Rafly Akbar, a Web Developer & SPK Specialist passionate about building decision-support systems and clean, functional web applications. Skilled in PHP, MySQL, JavaScript, and always exploring new tech.</h3>
 
   
   </tr>
