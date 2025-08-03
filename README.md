@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rafly Akbar</h1>
-<h3 align="center">Passionate about Web Development, SPK, and Problem Solving</h3>
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#aada25ff">
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafly+Akbar;Web+Developer+%7C+SPK+Builder+%7C+Tech+Explorer" alt="Typing SVG" />
+</h1>
+
+<h3>🚀 Passionate about Web Development, SPK, and Problem Solving</h3>
+
+  </td>
+  </tr>
+</table>
+
+
 
 <!-- ANIMATED BACKGROUND (GIF) -->
 <p align="center">
